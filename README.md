@@ -23,9 +23,11 @@ The folder 'experiments' contains various scripts to the following experiments:
 4_grpca: Robust PCA experiments  
 - Comparison of phase transitions in rank and sparsity to other state-of-the-art methods. See the README.txt file in the 'matlab' folder for information on where to obtain those algorithms.  
 - Real-world video segmentation on the 'escalator' sequence from [Li et al, 2004]  
+
 5_grst: Robust Subspace Tracking experiments  
 - Simulations on generated data  
 - see Florian Seidel's implementation of [pROST] for a practical application on video segmentation  
+
 6_grslra: Robust Structured Low-Rank Approximation  
 - Simulations on System Identification of LTI and LTV systems  
 - Real-world time series forecasting on [airline passenger data]  

@@ -1,0 +1,1 @@
+{"mu_start": 0.1, "c_mu": 0.2, "rho_start_cg_U": 0.1, "rho_start_cg_Y": 0.1, "I_max": 1000, "delta": 0.01, "samplesize": 1e4, "SMMPROD": "None", "PLOT": 0, "VERBOSE": 1, "PRINT": 0, "PCA_INIT": 0, "CALC_L": 0}

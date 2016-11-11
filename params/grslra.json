@@ -1,0 +1,1 @@
+{"rho_start": 1, "rho_end": 1e8, "mu_start": 0.1, "c_rho_slow": 1.5, "c_rho_fast": 100, "II_slow": 3, "delta": 1, "I_max": 1000, "II_max": 1000, "PLOT": "None", "VERBOSE": 1, "PRINT": "None", "PCA_INIT": 0}

@@ -1,0 +1,1 @@
+{"t_init": 1e8, "t_min": 1e-8, "rho": 0.9, "c": 1e-4, "delta": 1e-4, "I_max": 10, "direction_reset_rate": 5, "step_reset_rate": 5}

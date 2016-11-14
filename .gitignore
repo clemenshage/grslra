@@ -7,5 +7,6 @@
 *.png
 *.mpg
 *.mkv
+.idea/
 build/
 *.egg-info

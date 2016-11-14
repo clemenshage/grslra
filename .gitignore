@@ -1,7 +1,11 @@
 *.pyc
 *.npz
+*.mat
+*.bin
 *.so
 *.pdf
 *.png
 *.mpg
-*.bin
+*.mkv
+build/
+*.egg-info

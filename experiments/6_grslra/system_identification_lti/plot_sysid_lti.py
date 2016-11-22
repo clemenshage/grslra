@@ -19,11 +19,12 @@ plt.plot(data["l_slrabyF"], label="SLRAbyF", linewidth=3, color='r', zorder=2)
 axes = plt.gca()
 plt.grid(b=True, which='both', color='0.65',linestyle='-')
 plt.tight_layout()
+plt.xlim(0, data["l_grslra"].size)
 
 handles, labels = axes.get_legend_handles_labels()
 
 order = [0, 3, 2, 1]
 
 leg=axes.legend([handles[i] for i in order], [labels[i] for i in order], ncol=2, frameon=True)#loc="upper right"
-leg.get_frame().set_edgecolor('k')
+#leg.get_frame().set_edgecolor('k')
 plt.savefig('sysid_lti.pdf', dpi=200)

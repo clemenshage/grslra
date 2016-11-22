@@ -28,7 +28,7 @@ n = N + N_f - m + 1
 hankel = Hankel(m, m + N_f)
 
 params_cg_U = {"t_init": 0.01}
-grslra_params = {"VERBOSE": 1, "PRINT": 1}
+grslra_params = {"VERBOSE": 1, "PRINT": 0}
 
 if PROFILE:
     profile = cProfile.Profile()
